@@ -2,6 +2,8 @@
 
 I'm a passionate mobile developer with expertise in **Android** and **Flutter** development. I love building efficient, user-friendly mobile apps. Here's a glimpse of my tech journey and skills!
 
+How to reach me **naingpyaehlyan@gmail.com**
+
 ---
 
 ## 🚀 Tech Journey
